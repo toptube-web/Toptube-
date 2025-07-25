@@ -1,4 +1,4 @@
-t// Toptube/fronten/script.js
+// Toptube/fronten/script.js
 
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
 
